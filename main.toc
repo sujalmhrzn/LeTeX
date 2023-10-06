@@ -1,0 +1,60 @@
+\contentsline {chapter}{DECLARATION}{iii}{chapter*.1}%
+\contentsline {chapter}{RECOMMENDATION}{iv}{chapter*.2}%
+\contentsline {chapter}{DEPARTMENTAL ACCEPTANCE}{v}{chapter*.3}%
+\contentsline {chapter}{ACKNOWLEDGMENT}{vii}{chapter*.6}%
+\contentsline {chapter}{ABSTRACT}{viii}{chapter*.7}%
+\contentsline {chapter}{TABLE OF CONTENTS}{ix}{chapter*.8}%
+\contentsline {chapter}{LIST OF FIGURES}{xi}{chapter*.9}%
+\contentsline {chapter}{LIST OF TABLES}{xii}{chapter*.10}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xiii}{chapter*.11}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectives}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Scope}{1}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Limitation}{2}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Potential Applications}{2}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Originality of Project}{3}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Report Organisation}{3}{section.1.8}%
+\contentsline {chapter}{\numberline {2}BACKGROUND AND LITERATURE REVIEW}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Background Study}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Literature Review}{4}{section.2.2}%
+\contentsline {chapter}{\numberline {3}SYSTEM ANALYSIS AND DESIGN}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}methodology}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}System Analysis}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Requirement Analysis}{7}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}functional Requirements}{7}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Non-functional Requirements}{7}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Feasibility Analysis}{8}{section.3.4}%
+\contentsline {section}{\numberline {3.5}ER diagram}{9}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Process Modeling(DFD)}{9}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}System Design}{10}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Architecture design}{10}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Database Schema Design}{11}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Interface Design}{11}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Physical DFD}{15}{subsection.3.6.4}%
+\contentsline {chapter}{\numberline {4}IMPLEMENTATION AND TESTING}{16}{chapter.4}%
+\contentsline {section}{\numberline {4.1}System Development Tools}{16}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Testing}{18}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Test Cases for Unit Testing}{18}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Test Cases for System Testing}{19}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {5}CONCLUSION AND FUTURE RECOMMENDATION}{23}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Lesson Learnt/Outcome}{23}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Home Page}{23}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Build Page}{24}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Components Page}{24}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Admin Portal}{25}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Sign-in Page}{25}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}Incorrect Password}{26}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}Sign-up Page}{27}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Searching Page}{28}{subsection.5.1.8}%
+\contentsline {section}{\numberline {5.2}Conclusion}{28}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Future Recommendations}{28}{section.5.3}%
+\textbf {APPENDIX A}
+\contentsline {section}{\numberline {A.1}Project Schedule}{29}{section.1..1}%
+\contentsline {section}{\numberline {A.2}Setup Guide to run BuildWizard Locally}{30}{section.1..2}%
+\contentsline {section}{\numberline {A.3}Running Hosted Build Wizard}{30}{section.1..3}%
+\contentsline {section}{\numberline {A.4}MySQL Connection in our Build Wizard PHP}{31}{section.1..4}%
+\contentsline {section}{\numberline {A.5}Database}{32}{section.1..5}%
+\contentsline {section}{\numberline {A.6}Supervisor Consultation Form}{33}{section.1..6}%
+\contentsline {chapter}{REFERENCES}{34}{appendix*.44}%

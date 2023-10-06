@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: 0ACover/0cover.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: 0ACover/1title.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: 0ACover/3declaration.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: 0ACover/4recommendation.aux
+Reallocating 'name_of_file' (item size: 1) to 34 items.
+A level-1 auxiliary file: 0ACover/5departmentAcceptance.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: letterofapproval/letter.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: 0ACover/6acknowledgement.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: 0HAbstract/abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 34 items.
+A level-1 auxiliary file: 0IAbbreviations/abbreviations.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+A level-1 auxiliary file: 1Introduction/introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 39 items.
+A level-1 auxiliary file: 2Literaturereview/literaturereview.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: 3Methodology/methodology.aux
+Reallocating 'name_of_file' (item size: 1) to 55 items.
+A level-1 auxiliary file: 4ImplementationAndTesting/ImplementationAndTesting.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: 5WorkDone/WorkDone.aux
+Reallocating 'name_of_file' (item size: 1) to 38 items.
+A level-1 auxiliary file: 6DiscussionandAnalysis/Discussion.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: 7ConclusionFuture/conclusion.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+Database file #1: References/references.bib
+You've used 3 entries,
+            1791 wiz_defined-function locations,
+            480 strings with 4670 characters,
+and the built_in function-call counts, 785 in all, are:
+= -- 70
+> -- 35
+< -- 1
++ -- 13
+- -- 10
+* -- 50
+:= -- 127
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 36
+empty$ -- 72
+format.name$ -- 10
+if$ -- 174
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 2
+newline$ -- 18
+num.names$ -- 3
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 51
+swap$ -- 12
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 8
+width$ -- 4
+write$ -- 35
